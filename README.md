@@ -1,6 +1,10 @@
 # Simple_FOC_Uno_shield_Drv8313
-Arduion Uno R3 BLDC_Driver shield, use Drv813 chip
-Untested Verison !
-![image](https://user-images.githubusercontent.com/8948302/219937838-79bb71cd-41bc-41d5-b9b3-61e3cd64d416.png)
-![image](https://user-images.githubusercontent.com/8948302/219939908-a874ff4a-6366-416e-bf22-ab6f2973942f.png)
+Open Source Arduion Uno R3 BLDC FOC shield, use Drv8313 chip
+KICAD5 Source file 
+Optimze Layout, connect DGND with DRV8313 GND,adding I2C connector for AS5600
+Test work with simplefoc Arduino software
+
+![image](https://user-images.githubusercontent.com/8948302/223015641-48bc0c3d-0f19-4fa7-ad43-52eca5bea04a.png)
+![image](https://user-images.githubusercontent.com/8948302/223015695-9ba941a5-6b08-444d-bee6-42b06f9db359.png)
+
 
